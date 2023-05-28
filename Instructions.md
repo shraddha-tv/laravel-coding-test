@@ -23,7 +23,7 @@ Once your changes are committed, push them to your forked repository using the f
 
 ```git push origin main```
 
-Replace main with the name of the branch you are pushing to, if applicable.
+Replace ```main``` with the name of the branch you are pushing to, if applicable.
 
 ## 6. Submission:
 
