@@ -1,4 +1,8 @@
 # Project: Poya Day Dhamma Sermon Booking Web Application
+
+### Requirements
+- Should be used Laravel and Vue3
+
 ### Description:
 Shraddha Media Network wants a web application to allow users to book the Poya Day Dhamma Sermon online. The application will have 12 Poya days in a year, and there will be only one Dhamma Sermon available for booking on each Poya day. The following requirements should be met:
 
