@@ -1,4 +1,4 @@
-# Project: Poya Day Dhamma Sermon Booking Web Application
+# Coding Test: Poya Day Dhamma Sermon Booking Web Application
 
 ### Requirements
 - Should be used Laravel and Vue3
